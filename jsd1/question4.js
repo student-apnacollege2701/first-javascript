@@ -1,4 +1,4 @@
-for(let i =2;i<100;i++){
+for(let i =1       ;i<100;i++){
     let prime=true
 
     for(let j =2;j<i;j++){
